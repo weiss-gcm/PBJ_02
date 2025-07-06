@@ -1,4 +1,3 @@
-# NAMA: DARMA ADHYAKSA PUTRA
 # NIM: 1124102188
 
 from http.server import BaseHTTPRequestHandler, HTTPServer
